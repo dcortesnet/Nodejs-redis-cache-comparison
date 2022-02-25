@@ -36,3 +36,9 @@ NOTA: Por cada endpoint se realizarón X peticiones (50 en este ejemplo ), estas
 |Resultado aprox |
 | -- |
 +180 veces más rápido
+
+## Equipo
+
+Desarrollado por Diego Cortés
+
+* dcortes.net@gmail.com
